@@ -34,8 +34,8 @@ The Power BI dashboard provides:
 - A comparison page to compare the details of two movies, including their ratings and revenue generated.
 
 ## Maven Analytics Challenge
-This project was submitted as part of a **Maven Analytics Challenge**, where participants were tasked with analyzing a dataset and presenting key insights through compelling visual storytelling. https://mavenanalytics.io/challenges/maven-pixar-challenge/967013fc-1ff2-4453-a1ac-1ac1e0624c52
-
+This project was submitted as part of a [**Maven Analytics Challenge**](https://mavenanalytics.io/challenges/maven-pixar-challenge/967013fc-1ff2-4453-a1ac-1ac1e0624c52
+), where participants were tasked with analyzing a dataset and presenting key insights through compelling visual storytelling.
 ## How to Use (With Power BI)
 1. Download the Power BI file from the repository.
 2. Open it in Power BI Desktop.
@@ -43,7 +43,7 @@ This project was submitted as part of a **Maven Analytics Challenge**, where par
 
 ## How to Use (Without Power BI)
 1. Click on this link to view the interactive dashboard through web.
-2. https://app.powerbi.com/view?r=eyJrIjoiOTljM2QxMTYtZjg1NC00MTI3LWFjN2UtMzE3NWRkZGJjMTQxIiwidCI6ImRlMTM3ZmFmLTVmMDQtNDI1OC04ZjRmLTdhNDg0NDNiM2JiZCIsImMiOjZ9
+2. [Pixar Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTljM2QxMTYtZjg1NC00MTI3LWFjN2UtMzE3NWRkZGJjMTQxIiwidCI6ImRlMTM3ZmFmLTVmMDQtNDI1OC04ZjRmLTdhNDg0NDNiM2JiZCIsImMiOjZ9)
 
 ## Additional Resources
 Access slides here:
