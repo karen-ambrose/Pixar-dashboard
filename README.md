@@ -45,6 +45,10 @@ This project was submitted as part of a **Maven Analytics Challenge**, where par
 1. Click on this link to view the interactive dashboard through web.
 2. https://app.powerbi.com/view?r=eyJrIjoiOTljM2QxMTYtZjg1NC00MTI3LWFjN2UtMzE3NWRkZGJjMTQxIiwidCI6ImRlMTM3ZmFmLTVmMDQtNDI1OC04ZjRmLTdhNDg0NDNiM2JiZCIsImMiOjZ9
 
+## Additional Resources
+Access slides here:
+[Pixar Storytelling Slides](https://www.canva.com/design/DAGiRr8c9GY/fysYIDg7miMf6m-vrmGEqw/view?utm_content=DAGiRr8c9GY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## Contributors
 - Malik Akintola
 - Karen Ambrose
