@@ -31,6 +31,7 @@ The Power BI dashboard provides:
 - Interactive visuals for exploring Pixar’s history.
 - Breakdown of revenue and ratings by era.
 - Insights into Pixar’s most successful films.
+- A comparison page to compare the details of two movies, including their ratings and revenue generated.
 
 ## Maven Analytics Challenge
 This project was submitted as part of a **Maven Analytics Challenge**, where participants were tasked with analyzing a dataset and presenting key insights through compelling visual storytelling. https://mavenanalytics.io/challenges/maven-pixar-challenge/967013fc-1ff2-4453-a1ac-1ac1e0624c52
