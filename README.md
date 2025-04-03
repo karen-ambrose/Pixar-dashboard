@@ -55,7 +55,7 @@ Access slides here:
 - Oluwabusayo Adesioye
 - Chidera Ekwuno
 - Anita Truscott
-- Dire
+- Temidire Adenuga
 
 
 
